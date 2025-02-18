@@ -20,9 +20,6 @@ Here are some of my featured projects:
 - [Project 1](https://github.com/your-username/project-1) - A brief description.
 - [Project 2](https://github.com/your-username/project-2) - A brief description.
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 
