@@ -17,9 +17,8 @@ I'm a passionate Software Engineer and Software Testing Engineer from Egypt, alw
 
 Here are some of my featured projects:
 
-- [Project 1](https://github.com/your-username/project-1) - A brief description.
-- [Project 2](https://github.com/your-username/project-2) - A brief description.
-
+- [ARDI](https://github.com/mahmoudkamal11698/SeleniumARDI.git) - E-commerce Application
+- [CFM-HR](https://github.com/mahmoudkamal11698/SeleniumCFM.git) - HR Attendance System
 
 ## 📫 How to Reach Me
 
