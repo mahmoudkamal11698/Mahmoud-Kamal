@@ -23,11 +23,11 @@ Here are some of my featured projects:
 ## 📫 How to Reach Me
 
 - Email: mahmoudkamal11698@gmail.com
-- LinkedIn: [Mahmoud Kamal]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mahmoud-kamal-7833b8221/))
+- LinkedIn: [Mahmoud Kamal](https://www.linkedin.com/in/mahmoud-kamal-7833b8221/)
 
 ## 🎉 Fun Fact
 
-I love meme matirals and video editing 
+I love meme materials and video editing 
 
 ---
 
